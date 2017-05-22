@@ -2,9 +2,12 @@
 \contentsline {section}{\numberline {2}Introduction}{2}
 \contentsline {section}{\numberline {3} Problem Statement}{2}
 \contentsline {section}{\numberline {4}Main Objective}{2}
-\contentsline {subsection}{\numberline {4.1}Other objectives}{2}
-\contentsline {section}{\numberline {5}Hypotheses}{2}
-\contentsline {section}{\numberline {6}Significace of the study.}{2}
-\contentsline {section}{\numberline {7}Scope of study}{2}
+\contentsline {subsection}{\numberline {4.1}Other objectives}{3}
+\contentsline {section}{\numberline {5}Hypotheses}{3}
+\contentsline {section}{\numberline {6}Significace of the study.}{3}
+\contentsline {section}{\numberline {7}Scope of study}{3}
 \contentsline {section}{\numberline {8}Methodology}{3}
 \contentsline {subsection}{\numberline {8.1}Research Methods}{3}
+\contentsline {subsubsection}{\numberline {8.1.1}Observation}{3}
+\contentsline {subsubsection}{\numberline {8.1.2}Personal Interviews}{3}
+\contentsline {section}{\numberline {9}Conclusion}{3}
